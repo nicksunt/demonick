@@ -1,2 +1,4 @@
 привет, галя!
 привет, женя!
+hello, galya
+hello, zhenya
