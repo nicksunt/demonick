@@ -1,5 +1,3 @@
-привет, галя!
-привет, женя!
-hello, galya
+
 hello, zhenya
 What do you want
